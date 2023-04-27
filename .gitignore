@@ -1,0 +1,26 @@
+# Compiled Python files
+*.pyc
+
+# Python virtual environment
+venv/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+__pycache__/
+env/
+lib/
+bin/
+include/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Other generated files
+.DS_Store
+Thumbs.db
